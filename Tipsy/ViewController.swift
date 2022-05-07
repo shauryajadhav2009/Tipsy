@@ -81,5 +81,6 @@ class ViewController: UIViewController {
         let People = String(format:"%1.f",sender.value)
         SplitNumber.text = People
         numberOfPeople = People
+        // hello world
     }
 }
